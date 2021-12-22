@@ -6,6 +6,8 @@
   z-index: 3;
   border: $secondary-border;
   border-bottom: $medium-border;
+  font-family: 'Press Start 2P', cursive;
+
   .vertical_center_table {
     width: 100%;
     height: $header-height; // the real height of header
@@ -17,6 +19,7 @@
     border: none;
     padding: 0;
     vertical-align: middle;
+    
   }
   li {
     width: auto;
@@ -64,8 +67,9 @@
     margin: 0;
     display: inline-block;
     text-transform: capitalize;
-    font-family: $font-serif;
-    font-size: $header-btn-text-size;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    color:turquoise
   }
   .btn_icon {
     font-size: $header-btn-icon-size;
@@ -82,6 +86,7 @@
 @media screen and (max-width: 800px) {
   .page .header .nav_bar ul .header_btn .btn_text {
     font-size: 0;
+
   }  
   .page .container .header {
     border-top: none;
@@ -95,8 +100,10 @@
 @media screen and (max-width: 500px) {
   .page .container .header .nav_bar ul .site_owner {
     font-size: 0;
+
   }  
   .page .container .header .nav_bar ul .site_title {
     font-size: 0%;
+
   }
 }
