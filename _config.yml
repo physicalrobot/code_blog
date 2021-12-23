@@ -16,7 +16,6 @@ collection_order    :
   [
     "portfolio",
     "code",
-    "physics",
     "navpages"
   
   
@@ -40,9 +39,9 @@ collections:
       - portfolio2.md
       - portfolio1.md
 
-  physics:
-    output          : true
-    permalink       : /:collection/:title/
+  # physics:
+  #   output          : true
+  #   permalink       : /:collection/:title/
  
 
 # 3. Comment settings（disqus.com）
