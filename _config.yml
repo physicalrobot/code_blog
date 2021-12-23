@@ -2,7 +2,7 @@
 title               : My Coding Blog
 owner               : "Vikalp Malhotra"
 url                : "http://127.0.0.1:4000/"
-baseurl            : "/code_blog/"
+baseurl            : "/code_blog"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
