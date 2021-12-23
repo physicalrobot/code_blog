@@ -16,12 +16,17 @@ collection_order    :
   [
     "portfolio",
     "code",
-    "physics"
+    "physics",
+    "navpages"
   
   
   ]
 collections:
- 
+  navpages:   
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+    alias           : "ToC"
   code:   
     output          : true
     permalink       : /:collection/:title/
@@ -56,7 +61,7 @@ defaults:
       home_btn            : true        # whether show home by default
       maximize            : true        # whether show maximize button by default
       encrypted_text      : false       # whether use encrytion function by default
-      toc                 : true        # whether show table of content by default
+      toc                 : false        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
       author              : "Vikalp Malhotra" # author name by default
       show_date           : true        # whether show date message by default

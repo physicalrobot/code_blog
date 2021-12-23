@@ -4,19 +4,17 @@ post_list: false
 home_btn: true
 btn_text: true
 footer: false
-title: "Collection List"
+title: "Portfolio Index"
 author: ""
 encrypted_text: false
 ---
 <div class="collection_list">
-    <h1>Collections</h1>
-    {% for collection in site.collections %}
-    <h2>{{collection.label}}</h2>
-    {% for post in collection.docs %}
-    <p>
+    <h1>Portfolio Index</h1>
+
+    {% for post in site.portfolio %}
+    <h3>
         &nbsp;&nbsp;
         <a class="a_title" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-    </p>
-    {% endfor %}
+    </h3>
     {% endfor %}
 </div>

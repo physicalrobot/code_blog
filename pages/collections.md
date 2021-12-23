@@ -1,5 +1,5 @@
 ---
 layout: collections
-toc: false
+toc: true
 permalink: /collections
 ---

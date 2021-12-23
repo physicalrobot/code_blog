@@ -1,7 +1,7 @@
 ---
 layout: default
 post_list: false
-toc: false
+toc: true
 comment: false
 home_btn: true
 btn_text: true
