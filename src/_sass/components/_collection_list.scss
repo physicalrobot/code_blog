@@ -33,6 +33,8 @@
     text-align: left;
     padding: 0;
     border-bottom: $secondary-border;
+    font-family: 'Press Start 2P', cursive;
+
     .collection_list_header_title {
       height: auto;
       width: auto;
@@ -51,6 +53,7 @@
       }
       #clh_title {
         text-transform: capitalize;
+
       }
     }
     .close_btn {
@@ -73,6 +76,8 @@
   }
   .collection_name_list {
     top: 28px + $collection-list-header-size;
+  
+
     bottom: 28px;
     width: 25%;
     height: auto;
@@ -82,7 +87,7 @@
     @include thin_scrollbar;
     text-align: end;
     td {
-      padding: 0;
+      padding: 25;
     }
     ul {
       margin: 0;
@@ -94,6 +99,9 @@
     }
   }
   .posts_by_cate {
+
+    font-family: 'Press Start 2P', cursive;
+
     top: 28px + $collection-list-header-size;
     bottom: 28px;
     left: 25%;
@@ -108,11 +116,16 @@
     border-left: $thin-border;
     td {
       padding: 0;
+
+
     }
     ul {
       margin: 0;
       padding: 0px 2.2em 0px 2.2em;
       text-align: left;
+      font-size: '3 px';
+
+
     }
     li {
       list-style-type: disc;
