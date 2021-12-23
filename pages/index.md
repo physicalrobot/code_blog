@@ -17,7 +17,7 @@ permalink: /
 > Step 1: Follow the white rabbit.
 
 ## About Me
-<p><img src="src/assets/img/pkmntrainer.png" alt="myavatar" height="400" /></p>
+<p><img src="{{site.url }}{{site.baseurl}}/src/assets/img/pkmntrainer.png" alt="myavatar" height="400" /></p>
 <br>
  
  Welcome to my Tech Blog! At the risk of this blurb sounding like a dating profile I'm just going to cut to the chase. I'm a physicist at heart looking to poke and prod the universe in different ways in hopes to understand myself better. I do everything through the lens of a scientist, whether its playing video games or cooking. Although I've been working with computers my entire life, I've only recently been initiated into the realm of coding. Finding ways to interact with our physical world using the logic built on computers is akin to learning how to drive for the first time. It's unlocked so much more potential for me just by demystifying the interactions I have with websites everyday. I will be documenting some of the new skills I learn on this journey, hope you find something that helps you on yours.  
