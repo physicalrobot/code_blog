@@ -14,7 +14,6 @@ permalink: /
 <br>
 # Becomming A Programmer
 
-<br>
 > Step 1: Follow the white rabbit.
 
 ## About Me
