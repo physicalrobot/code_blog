@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : My Coding Blog
 owner               : "Vikalp Malhotra"
-url                : "http://127.0.0.1:4000/"
+url                : "https://physicalrobot.github.io"
 baseurl            : "/code_blog"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
