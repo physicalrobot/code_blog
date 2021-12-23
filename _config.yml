@@ -62,7 +62,7 @@ defaults:
       show_date           : true        # whether show date message by default
       category            :             # category by default
       post_list           : false       # whether show list of post by default      
-      comment             : true
+      comment             : false
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts

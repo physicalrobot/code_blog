@@ -34,6 +34,10 @@
   .footer_copyright {
     margin: 0;
     font-size: 12px;
+    font-family: 'Press Start 2P', cursive;
+    font-size:7px;
+
+
   }
   .footer_btn {
     @include simple_link_style;

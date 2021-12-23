@@ -49,10 +49,12 @@
     .site_title {
       font-size: $header-btn-text-size;
       @include simple_link_style;
+      color:turquoise
     }
     .site_owner {
       font-size: $header-btn-text-size;
       @include simple_link_style;
+      color:turquoise
     }
   }
   .header_btn {

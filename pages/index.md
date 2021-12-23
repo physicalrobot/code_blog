@@ -12,7 +12,7 @@ encrypted_text: true
 permalink: /
 ---
 <br>
-# My Journey To Becomming A Programmer
+# Becomming A Programmer
 
 <br>
 > Step 1: Follow the white rabbit.
