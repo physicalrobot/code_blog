@@ -47,12 +47,14 @@
       }
     }
     .site_title {
-      font-size: $header-btn-text-size;
+      // font-size: $header-btn-text-size;
+      font-size:10px;
       @include simple_link_style;
       color:turquoise
     }
     .site_owner {
-      font-size: $header-btn-text-size;
+      font-size:10px;
+      // font-size: $header-btn-text-size;
       @include simple_link_style;
       color:turquoise
     }
