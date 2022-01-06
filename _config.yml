@@ -16,7 +16,7 @@ collection_order    :
   [
     "portfolio",
     "code",
-    "navpages"
+    # "navpages"
   
   
   ]
