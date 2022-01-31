@@ -106,8 +106,8 @@ I started by first creating the textboxes for each, along with an iframe as list
 Under it I wrote up a function assigning the values of textboxes to variables and essentially running the text I input through the browser console but outputting into the iframe. Since I wrote this out on the html file, it serves as the center console of my app and doesn't get affected by parallax scrolling. 
 
 ## Text Editor/Html Converter
-For this part I downloaded and used the following webpak: 
-https://jpuri.github.io/react-draft-wysiwyg/#/
+For this part I downloaded and used the following webpak: <a href='https://jpuri.github.io/react-draft-wysiwyg/#/' style='color:turquoise'>
+https://jpuri.github.io/react-draft-wysiwyg/#/</a>
 
 It didn't take too much debugging on my end, but in short I opted to use their controlled editor using EditorState with the following code in a component of its own:
 
