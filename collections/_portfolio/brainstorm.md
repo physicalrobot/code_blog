@@ -139,7 +139,9 @@ class TextEditor extends Component {
 export default TextEditor;
 ```
 Towards the end of my site you'll see a lofi image of myself, which I generated using: 
-https://lofirecords.com/pages/lofigirl-generator
+<a href='https://lofirecords.com/pages/lofigirl-generator
+' style='color:turquoise'>
+https://lofirecords.com/pages/lofigirl-generator</a>
 
 And added music by linking a youtube video to an iframe element and setting its height in css to 0. I then linked a play and stop button that starts and stops the video so it looks like you can toggle music on and off. 
 
