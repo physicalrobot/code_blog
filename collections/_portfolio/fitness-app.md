@@ -188,7 +188,3 @@ After painstakingly debugging the fetch calls in the front end I was able to con
 <br><br>
 
 <a href='https://github.com/physicalrobot/Fitness-Tracker'><img src="{{site.url }}{{site.baseurl}}/src/assets/img/postpix/training.gif" alt="lofi" style='width:1000px' /></a>
-
-```
-
-```
