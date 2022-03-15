@@ -26,7 +26,7 @@ permalink: /
 
 In this website you will find: 
 
-- Portfolio Town (site navigator)
+- Profile Town (site navigator)
 - My Code Blog
 - My Portfolio Projects
 - My Thoughts on Stuff
