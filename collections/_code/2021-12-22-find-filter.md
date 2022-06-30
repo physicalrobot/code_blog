@@ -3,7 +3,7 @@ title: Find / Filter
 ---
 
 I have to admit. I was gaining a bit of an ego before I was confronted with the find and filter function. I just happened to be lucky enough to be breezing through the assignments I was being assigned before this point. Learning how to search for specific elements in a given array is an important method that I'm sure will come up again in the future. 
-
+Hello I'm here. 
 <h2>Find</h2>
 
 The find function returns the value of the first element in the provieded array that satisfies the testing function. 
