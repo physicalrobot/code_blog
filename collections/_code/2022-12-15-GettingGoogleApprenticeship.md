@@ -14,7 +14,10 @@ It was quite the hail mary but I went for it, expecting it to go absolutely nowh
 
 I got called back about three months later and did two virtual interviews (one behaviorial and one technical) three weeks after that and BAM!!
 
-I'm proud to say that as of September 12th (only 6 days before I turned 30) your boy became an Apprentice Software Engineer at Google! I was definitely indenial for a bit. Although we started back in September, we had about 9 weeks of onboarding. My work is finally starting to align with what I'm actually going to be doing for the company now. This rotation I'm going to be starting with the <span style="color:aqua;font-weight:bold">Android Wallet Integration Team </span>. 
+I'm proud to say that as of September 12th (only 6 days before I turned 30) your boy became an Apprentice Software Engineer at Google! I was definitely indenial for a bit. I don't mean this in a self loathing type of way but "good things" don't usually happen to me, so when I got the call I didn't even know how to react for a few days. 
+
+
+Although its been a few months, we were put through about 9 weeks of onboarding. Our cohort is finally primed and ready to work alongside our teams at Google. It feels like a whole new "first day" vibe. My work is finally starting to align with what I'm actually going to be doing for the company now. This rotation I'm going to be starting with the <span style="color:aqua;font-weight:bold">Android Wallet Integration Team </span>. 
 
 So far my plan is to get familiar with Android archecture by developing an app in Android Studio. You can check out my Reminder App <span style="color:aqua;font-weight:bold">here</span>. (hyperlink reminder app) My job on the team will have me building out tests to automate some of the wallet features for the team. I'm also currently in the process of picking up Java and Kotlin, and what better way to pick up a language then create something with it. Although Kotlin is supposed to be the primary language used for Android Dev, my team wants me well versed in Java. 
 
