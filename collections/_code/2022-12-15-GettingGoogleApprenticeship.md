@@ -1,8 +1,8 @@
 ---
-title: Google Apprenticeship
+title: Getting the Google Apprenticeship
 ---
 
-<h2>Google Apprenticeship...we did it boys!</h2>
+<h2>...we did it boys!</h2>
 
 I know I fell off and stopped blogging about my journey, and that's on me. I honestly felt that I didn't have anything worth sharing happen to me. I started this blog shortly after one of my close friends from college suggest I do a bootcamp to successfully transition over to the tech industry. For those that don't know me, I'm a lazy person. Not in the standard sense, but more like I don't bother doing something unless I do it all the way. Being a broke high school teacher at the time the feat of transitioning careers seemed like a mountain of work to commit to. I made a pact with myself that if I was to go down this path, I'd get a job in the field within a year, before I turn 30. Since graduating six months ago, a lot has happened. I thought that this would be a good time to log some of the adventures I've had. 
 
