@@ -229,5 +229,5 @@ public class CategoryListAdapter extends RecyclerView.Adapter<CategoryListAdapte
     }
 ```
 Here's a picture of the final product! Feel free to click on the image below to be sent to the repository. You can download the code and play around with it to see the features I've implemented. 
-<a href='https://github.com/physicalrobot/reminder'><img  src="{{site.url }}{{site.baseurl}}/src/assets/img/postpix/reminderappfinishedpic.png" alt="reminderfinished" /></a>
+<img  src="{{site.url }}{{site.baseurl}}/src/assets/img/postpix/reminderappfinishedpic.png" alt="reminderfinished" />
 
