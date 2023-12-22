@@ -258,6 +258,10 @@ username: <span style='color: turquoise'>username</span>
 <br><br>
 password: <span style='color: turquoise'>password</span>
 </p>
+You can check out a video demo of the website, or check out the repo by clicking the gif below.
+
 <br><br>
+
+[Video Demo](https://youtu.be/jcpE9EuZM_8) 
 
 <a href='https://workout-routine-tracker.herokuapp.com/'><img src="{{site.url }}{{site.baseurl}}/src/assets/img/postpix/training.gif" alt="lofi" style='width:1000px' /></a>

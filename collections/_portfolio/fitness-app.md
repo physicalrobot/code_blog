@@ -183,8 +183,9 @@ After figuring out how to structure the backend it was all about setting up the 
   end
 ```
 
-After painstakingly debugging the fetch calls in the front end I was able to construct a flow that responded to the backend accordingly. The app successfully lets the user create/delete workouts, set them into catagories, and schedule them onto a calendar. The process of making this one really taught me a ton. I got stuck multiple times getting the front-end to stay up to date with the backend, after ultimately getting it to work I feel like I'm now fairly familiar with how both halves of a website interact. You can check out the repo by clicking the gif below.
+After painstakingly debugging the fetch calls in the front end I was able to construct a flow that responded to the backend accordingly. The app successfully lets the user create/delete workouts, set them into catagories, and schedule them onto a calendar. The process of making this one really taught me a ton. I got stuck multiple times getting the front-end to stay up to date with the backend, after ultimately getting it to work I feel like I'm now fairly familiar with how both halves of a website interact. You can check out a video demo of the website, or check out the repo by clicking the gif below.
 
 <br><br>
 
+[Video Demo](https://youtu.be/jcpE9EuZM_8) 
 <a href='https://github.com/physicalrobot/Fitness-Tracker'><img src="{{site.url }}{{site.baseurl}}/src/assets/img/postpix/training.gif" alt="lofi" style='width:1000px' /></a>
